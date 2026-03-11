@@ -50,7 +50,15 @@ The robot operates using a closed-loop feedback control system.
 This enables continuous trajectory correction and stable line tracking at high speeds.
 
 ---
+## Project Evolution
 
+| Version   | Description                             |
+| --------- | --------------------------------------- |
+| Version 1 | PID control with Bluetooth-based tuning |
+| Version 2 | Dashed-line navigation and turn memory  |
+| Version 3 | Priority-based intersection handling    |
+
+Each version progressively improves navigation robustness and control stability.
 ---
 
 # Key Control Features
