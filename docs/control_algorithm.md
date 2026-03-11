@@ -21,9 +21,11 @@ I = accumulated error
 D = rate of change of error
 
 The control output adjusts differential motor speeds to steer the robot back toward the line.
+
 A detailed explanation of the control strategy can be found here:
 
 ➡ docs/pid_control.md
+
 ---
 
 ## Motor Control
